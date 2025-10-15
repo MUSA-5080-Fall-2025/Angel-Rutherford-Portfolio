@@ -308,9 +308,6 @@ ggplot()+
 
 ### Chart: Distribution Analysis
 
-Create a visualization showing the distribution of distances to hospitals for vulnerable populations.
-
-**Your Task:**
 ```{r}
 # Create distribution visualization
 
